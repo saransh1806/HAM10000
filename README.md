@@ -6,6 +6,11 @@ The project explores transfer learning with pretrained EfficientNet-B2 and Dense
 
 ⚠️ Disclaimer: This project is for educational and portfolio purposes only. It is not a medical device and has not been clinically validated. Predictions should not be used for diagnosis or treatment decisions.
 
+🚀 Live Demo
+
+Hugging Face Space:
+https://huggingface.co/spaces/Saransh-06/HAM10000
+
 📌 Project Overview
 
 The goal of this project was to build an image classification pipeline capable of distinguishing between the 7 diagnostic categories present in the HAM10000 dataset.
